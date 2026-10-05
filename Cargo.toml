@@ -116,5 +116,5 @@ optional = true
 
 [dependencies.ffmpeg-sys-next]
 git = "https://github.com/VladasZ/rust-ffmpeg-sys"
-rev = "01362c5845276232aefb09cfa928bd6b7ff3c0d5"
+rev = "30bade3b8f433d93861a1eda8e2bfaa3f43e3e84"
 default-features = false
